@@ -1,12 +1,14 @@
 
 import { StyleSheet } from "react-native"; 
   const styles = StyleSheet.create({
+
     container: {
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
       backgroundColor: '#DCDCDC',
     },
+
     inputContainer: {
       borderBottomColor: '#F5FCFF',
       backgroundColor: '#FFFFFF',
@@ -40,6 +42,7 @@ import { StyleSheet } from "react-native";
       marginRight: 15,
       justifyContent: 'center',
     },
+    
     buttonContainer: {
       height: 45,
       flexDirection: 'row',
